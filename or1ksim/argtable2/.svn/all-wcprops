@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/argtable2
+END
+arg_end.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/arg_end.c
+END
+arg_str.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/arg_str.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/argtable2/Makefile.in
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/getopt.c
+END
+argtable2.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ocsvn/openrisc/!svn/ver/144/openrisc/trunk/or1ksim/argtable2/argtable2.c
+END
+arg_date.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/arg_date.c
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/getopt.h
+END
+argtable2.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/argtable2.h
+END
+arg_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/arg_file.c
+END
+arg_rem.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/arg_rem.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/README
+END
+argtable2.def
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/argtable2.def
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ocsvn/openrisc/!svn/ver/80/openrisc/trunk/or1ksim/argtable2/config.h.in
+END
+arg_lit.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/arg_lit.c
+END
+arg_int.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/arg_int.c
+END
+getopt1.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/getopt1.c
+END
+Makefile.nmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/Makefile.nmake
+END
+arg_rex.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/arg_rex.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/Makefile.am
+END
+arg_dbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/argtable2/arg_dbl.c
+END

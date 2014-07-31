@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/softfloat
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/softfloat/Makefile.in
+END
+softfloat.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ocsvn/openrisc/!svn/ver/234/openrisc/trunk/or1ksim/softfloat/softfloat.c
+END
+host.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/236/openrisc/trunk/or1ksim/softfloat/host.h
+END
+softfloat-macros
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ocsvn/openrisc/!svn/ver/236/openrisc/trunk/or1ksim/softfloat/softfloat-macros
+END
+softfloat-specialize
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ocsvn/openrisc/!svn/ver/233/openrisc/trunk/or1ksim/softfloat/softfloat-specialize
+END
+softfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ocsvn/openrisc/!svn/ver/234/openrisc/trunk/or1ksim/softfloat/softfloat.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ocsvn/openrisc/!svn/ver/236/openrisc/trunk/or1ksim/softfloat/Makefile.am
+END
+milieu.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/234/openrisc/trunk/or1ksim/softfloat/milieu.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/236/openrisc/trunk/or1ksim/softfloat/README
+END

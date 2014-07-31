@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/debug
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/debug/Makefile.in
+END
+gdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/debug/gdb.h
+END
+debug-unit.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/532/openrisc/trunk/or1ksim/debug/debug-unit.c
+END
+jtag.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ocsvn/openrisc/!svn/ver/98/openrisc/trunk/or1ksim/debug/jtag.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/235/openrisc/trunk/or1ksim/debug/Makefile.am
+END
+debug-unit.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/debug/debug-unit.h
+END
+rsp-server.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/385/openrisc/trunk/or1ksim/debug/rsp-server.c
+END
+jtag.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ocsvn/openrisc/!svn/ver/98/openrisc/trunk/or1ksim/debug/jtag.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/debug/.cvsignore
+END
+rsp-server.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/debug/rsp-server.h
+END

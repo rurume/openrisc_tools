@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/m4
+END
+ltsugar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ocsvn/openrisc/!svn/ver/82/openrisc/trunk/or1ksim/m4/ltsugar.m4
+END
+libtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/m4/libtool.m4
+END
+ltversion.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/m4/ltversion.m4
+END
+lt~obsolete.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/m4/lt~obsolete.m4
+END
+ltoptions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/m4/ltoptions.m4
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/peripheral/channels
+END
+fd.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/fd.h
+END
+xterm.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ocsvn/openrisc/!svn/ver/82/openrisc/trunk/or1ksim/peripheral/channels/xterm.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/peripheral/channels/Makefile.in
+END
+xterm.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/xterm.h
+END
+channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/channel.c
+END
+generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/generic.c
+END
+channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/channel.h
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/file.c
+END
+tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/tty.c
+END
+generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/generic.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/file.h
+END
+tty.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/tty.h
+END
+tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/tcp.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/Makefile.am
+END
+fd.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/fd.c
+END
+tcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/tcp.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/channels/.cvsignore
+END

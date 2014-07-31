@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/peripheral
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/224/openrisc/trunk/or1ksim/peripheral/gpio.c
+END
+mc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/385/openrisc/trunk/or1ksim/peripheral/mc.c
+END
+atadevice-cmdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ocsvn/openrisc/!svn/ver/82/openrisc/trunk/or1ksim/peripheral/atadevice-cmdi.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/peripheral/Makefile.in
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/82/openrisc/trunk/or1ksim/peripheral/gpio.h
+END
+mc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/112/openrisc/trunk/or1ksim/peripheral/mc.h
+END
+atadevice-cmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/atadevice-cmdi.h
+END
+generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ocsvn/openrisc/!svn/ver/224/openrisc/trunk/or1ksim/peripheral/generic.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/crc32.c
+END
+mc-defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ocsvn/openrisc/!svn/ver/385/openrisc/trunk/or1ksim/peripheral/mc-defines.h
+END
+eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/566/openrisc/trunk/or1ksim/peripheral/eth.c
+END
+generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/generic.h
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/crc32.h
+END
+ps2kbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ocsvn/openrisc/!svn/ver/224/openrisc/trunk/or1ksim/peripheral/ps2kbd.c
+END
+eth.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/443/openrisc/trunk/or1ksim/peripheral/eth.h
+END
+atadevice.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ocsvn/openrisc/!svn/ver/82/openrisc/trunk/or1ksim/peripheral/atadevice.c
+END
+fb.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/224/openrisc/trunk/or1ksim/peripheral/fb.c
+END
+atadevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/atadevice.h
+END
+ps2kbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/ps2kbd.h
+END
+fb.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/fb.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/.cvsignore
+END
+atacmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/atacmd.h
+END
+dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/224/openrisc/trunk/or1ksim/peripheral/dma.c
+END
+atahost.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ocsvn/openrisc/!svn/ver/224/openrisc/trunk/or1ksim/peripheral/atahost.c
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/dma.h
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ocsvn/openrisc/!svn/ver/483/openrisc/trunk/or1ksim/peripheral/memory.c
+END
+atahost.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/atahost.h
+END
+fields.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/fields.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/memory.h
+END
+vga.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/224/openrisc/trunk/or1ksim/peripheral/vga.c
+END
+16450.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/224/openrisc/trunk/or1ksim/peripheral/16450.c
+END
+vga.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/vga.h
+END
+16450.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/16450.h
+END
+dma-defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/peripheral/dma-defs.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ocsvn/openrisc/!svn/ver/112/openrisc/trunk/or1ksim/peripheral/Makefile.am
+END

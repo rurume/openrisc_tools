@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/pcu
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/pcu/Makefile.in
+END
+pcu.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ocsvn/openrisc/!svn/ver/556/openrisc/trunk/or1ksim/pcu/pcu.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/556/openrisc/trunk/or1ksim/pcu/Makefile.am
+END
+pcu.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ocsvn/openrisc/!svn/ver/556/openrisc/trunk/or1ksim/pcu/pcu.h
+END

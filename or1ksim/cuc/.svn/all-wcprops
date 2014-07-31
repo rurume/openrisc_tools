@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/cuc
+END
+cuc.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cuc/cuc.h
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ocsvn/openrisc/!svn/ver/230/openrisc/trunk/or1ksim/cuc/load.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/cuc/Makefile.in
+END
+bb.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ocsvn/openrisc/!svn/ver/82/openrisc/trunk/or1ksim/cuc/bb.c
+END
+insn.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cuc/insn.c
+END
+verilog.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ocsvn/openrisc/!svn/ver/96/openrisc/trunk/or1ksim/cuc/verilog.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cuc/Makefile.am
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cuc/memory.c
+END
+adv.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cuc/adv.c
+END
+cuc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ocsvn/openrisc/!svn/ver/230/openrisc/trunk/or1ksim/cuc/cuc.c
+END
+timings.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ocsvn/openrisc/!svn/ver/82/openrisc/trunk/or1ksim/cuc/timings.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cuc/.cvsignore
+END
+insn.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cuc/insn.h
+END
+verilog.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cuc/verilog.h
+END

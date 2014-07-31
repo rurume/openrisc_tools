@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Save_As.png</file>
+        <file>icons/Save.png</file>
+        <file>icons/Load_Project.png</file>
+        <file>icons/Load_Example.png</file>
+        <file>icons/Close_Project.png</file>
+        <file>icons/Add-icon.png</file>
+        <file>icons/New_Project.png</file>
+    </qresource>
+</RCC>

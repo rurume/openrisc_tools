@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/tick
+END
+tick.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/tick/tick.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/tick/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/tick/Makefile.am
+END
+tick.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ocsvn/openrisc/!svn/ver/561/openrisc/trunk/or1ksim/tick/tick.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/tick/.cvsignore
+END

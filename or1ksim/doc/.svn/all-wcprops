@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ocsvn/openrisc/!svn/ver/787/openrisc/trunk/or1ksim/doc
+END
+or1ksim.info
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/787/openrisc/trunk/or1ksim/doc/or1ksim.info
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/doc/Makefile.in
+END
+mdate-sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ocsvn/openrisc/!svn/ver/82/openrisc/trunk/or1ksim/doc/mdate-sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/doc/Makefile.am
+END
+fdl-1.2.texi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/doc/fdl-1.2.texi
+END
+texinfo.tex
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ocsvn/openrisc/!svn/ver/82/openrisc/trunk/or1ksim/doc/texinfo.tex
+END
+config.texi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/doc/config.texi
+END
+or1ksim.texi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/556/openrisc/trunk/or1ksim/doc/or1ksim.texi
+END
+version.texi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/787/openrisc/trunk/or1ksim/doc/version.texi
+END

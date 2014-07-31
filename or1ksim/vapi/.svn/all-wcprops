@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/vapi
+END
+vapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ocsvn/openrisc/!svn/ver/224/openrisc/trunk/or1ksim/vapi/vapi.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/vapi/Makefile.in
+END
+vapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/vapi/vapi.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/vapi/Makefile.am
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/vapi/.cvsignore
+END

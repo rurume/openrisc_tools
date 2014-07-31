@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/cpu/or1k
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ocsvn/openrisc/!svn/ver/784/openrisc/trunk/or1ksim/cpu/or1k/Makefile.in
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cpu/or1k/arch.h
+END
+spr-dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ocsvn/openrisc/!svn/ver/538/openrisc/trunk/or1ksim/cpu/or1k/spr-dump.c
+END
+sprs.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ocsvn/openrisc/!svn/ver/552/openrisc/trunk/or1ksim/cpu/or1k/sprs.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cpu/or1k/Makefile.am
+END
+except.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ocsvn/openrisc/!svn/ver/552/openrisc/trunk/or1ksim/cpu/or1k/except.c
+END
+spr-defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ocsvn/openrisc/!svn/ver/561/openrisc/trunk/or1ksim/cpu/or1k/spr-defs.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cpu/or1k/.cvsignore
+END
+spr-dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cpu/or1k/spr-dump.h
+END
+sprs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cpu/or1k/sprs.h
+END
+except.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ocsvn/openrisc/!svn/ver/19/openrisc/trunk/or1ksim/cpu/or1k/except.h
+END
